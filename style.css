@@ -19,7 +19,8 @@ header {
 
 footer {
 	background-color:black;
-	text-align:center
+	text-align:center;
+	color:black
 }
 
 button:hover {
