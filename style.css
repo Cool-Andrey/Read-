@@ -33,8 +33,9 @@ footer {
 	color:black
 }
 
-button:hover {
+button:hover{
 	  -webkit-transform: scale(1.4);
   -ms-transform: scale(1.4);
   transform: scale(1.4);
+	background: blue
 	}
