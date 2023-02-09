@@ -4,11 +4,11 @@
 		<link rel="stylesheet"; href="style.css"/>
 	</head>
 	<body>
-	<header style="background-color:black">
+	<header>
 	<h1 style = "text-align:center; color: blue"><img src="https://img.freepik.com/premium-photo/spanner-on-black-background_624181-4051.jpg"width="150"/> </br>Ключики</h1>
 	</header>
 	<main>
-	<h1 style ="text-align:center; color:white"> Вы попали в самый лучший интернет-магазин игровых ключей! Здесь самые низкие цены! Вы можете купить ключи практически от любой игры!</h1>
+	<h1> Вы попали в самый лучший интернет-магазин игровых ключей! Здесь самые низкие цены! Вы можете купить ключи практически от любой игры!</h1>
 	<p><img src = "https://www.minecraft.net/content/dam/games/minecraft/key-art/MC_The-Wild-Update_540x300.jpg"/></p>
 	</br><form action="http://memesmix.net/media/created/qyuzii.jpg">
 	<button>Купить</button>
