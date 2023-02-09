@@ -15,7 +15,7 @@
 	</form>
 	<br/><img src = "https://upload.wikimedia.org/wikipedia/ru/thumb/f/f1/Stray_cover_art.jpg/800px-Stray_cover_art.jpg" width = "330"/>
 	<form action="http://memesmix.net/media/created/qyuzii.jpg">
-	<button>Купить</button>
+	<br/><button>Купить</button>
 	</form>
 	<form action="https://youtu.be/xvFZjo5PgG0">
 		<br/><button>Купить все игры</button>
