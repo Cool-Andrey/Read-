@@ -17,6 +17,10 @@ header {
 	background-color:black
 }
 
+h6 {
+	text-color:black
+}
+
 footer {
 	background-color:black;
 	text-align:center;
@@ -24,7 +28,7 @@ footer {
 }
 
 button:hover {
-  -webkit-transform: scale(1.5);
-  -ms-transform: scale(1.5);
-  transform: scale(1.5)
+  -webkit-transform: scale(1.4);
+  -ms-transform: scale(1.4);
+  transform: scale(1.4)
 	}
