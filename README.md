@@ -10,11 +10,11 @@
 	<main>
 	<h1> Вы попали в самый лучший интернет-магазин игровых ключей! Здесь самые низкие цены! Вы можете купить ключи практически от любой игры!</h1>
 	<p><img src = "https://www.minecraft.net/content/dam/games/minecraft/key-art/MC_The-Wild-Update_540x300.jpg"/></p>
-	</br><form action="http://memesmix.net/media/created/qyuzii.jpg">
+	<br/><form action="http://memesmix.net/media/created/qyuzii.jpg">
 	<button>Купить</button>
 	</form>
 	<img src = "https://upload.wikimedia.org/wikipedia/ru/thumb/f/f1/Stray_cover_art.jpg/800px-Stray_cover_art.jpg" width = "330"/>
-	</br><form action="http://memesmix.net/media/created/qyuzii.jpg">
+	<br/><form action="http://memesmix.net/media/created/qyuzii.jpg">
 	<button>Купить</button>
 	</form>
 	<form action="https://youtu.be/xvFZjo5PgG0">
