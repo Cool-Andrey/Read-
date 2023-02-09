@@ -5,7 +5,14 @@ main {
 
 button {
 	color:black; 
-	border-radius:100px
+	border-radius:100px;
+	-webkit-transition: all 0.3s ease;;
+	-moz-transition: all 0.3s ease;;
+	-o-transition: all 0.3s ease;;
+	transition: all 0.3s ease;
+}
+
+img {
 }
 
 h1 {
@@ -16,7 +23,6 @@ h1 {
 header {
 	background-color:black
 }
-
 h6 {
 	text-color:black
 }
@@ -24,11 +30,11 @@ h6 {
 footer {
 	background-color:black;
 	text-align:center;
-	text-color:black
+	color:black
 }
 
 button:hover {
-  -webkit-transform: scale(1.2);
-  -ms-transform: scale(1.2);
-  transform: scale(1.2)
+	  -webkit-transform: scale(1.4);
+  -ms-transform: scale(1.4);
+  transform: scale(1.4);
 	}
