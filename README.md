@@ -5,7 +5,7 @@
 	</head>
 	<body>
 	<header>
-	<h1 style = "text-align:center; color: blue"><img src="https://img.freepik.com/premium-photo/spanner-on-black-background_624181-4051.jpg" /> <br/>Ключики</h1>
+	<h1 style = "text-align:center; color: blue"><img src="https://img.freepik.com/premium-photo/spanner-on-black-background_624181-4051.jpg" width="150" /> <br/>Ключики</h1>
 	</header>
 	<main>
 	<h1> Вы попали в самый лучший интернет-магазин игровых ключей! Здесь самые низкие цены! Вы можете купить ключи практически от любой игры!</h1>
