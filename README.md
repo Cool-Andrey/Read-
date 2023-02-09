@@ -18,7 +18,7 @@
 	<button>Купить</button>
 	</form>
 	<form action="https://youtu.be/xvFZjo5PgG0">
-		<p><button>Купить все игры</button></p>
+		<br/><button>Купить все игры</button>
 	</form>
 	<form action="https://tlauncher.org/installer">
 	<p><button>Скачать майнкрафт бесплатно без регистрации без смс без оплаты без кошелька без карточки мамы без почки без руки без ума</button></p>
